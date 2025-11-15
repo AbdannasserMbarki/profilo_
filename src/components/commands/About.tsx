@@ -8,14 +8,14 @@ const About: React.FC = () => {
   return (
     <AboutWrapper data-testid="about">
       <p>
-        Hi, my name is <HighlightSpan>Jihed Kdiss</HighlightSpan>.
+        Hi, my name is <HighlightSpan>Abdannasser Mbarki</HighlightSpan>.
       </p>
       <p>
-        I'm a <HighlightAlt>Junior Cyber Security Analyst</HighlightAlt> based in Tunisia.
+        I'm a <HighlightAlt>Software engineer</HighlightAlt> based in Tunisia.
       </p>
       <p>
-        I am passionate about reverse engineering and <br />
-        penetration testing. I also enjoy coding and playing CTFs.
+        I am passionate about reverse engineering, software developpment and <br />
+        agentic coding. I also enjoy coding, automating tasks and playing CTFs.
       </p>
     </AboutWrapper>
   );

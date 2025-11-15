@@ -66,28 +66,11 @@ const Projects: React.FC = () => {
 const projects = [
   {
     id: 1,
-    title: "Blog",
-    desc: "My personal blog where I write down my thoughts and experiences.",
-    url: "https://blog.jihedkdiss.tn/",
+    title: "Needs to be updated with my new projects",
+    desc: "for now view my GitHub repositories.",
+    url: "https://github.com/AbdannasserMbarki?tab=repositories",
   },
-  {
-    id: 2,
-    title: "Radio Medenine Website",
-    desc: "Wordpress website developed for Radio Medenine. A local radio station in Medenine, Tunisia.",
-    url: "https://radiomednine.com/",
-  },
-  {
-    id: 3,
-    title: "Deagle",
-    desc: "System Scanner for Windows. A tool to scan and detect system information.",
-    url: "https://github.com/jihedkdiss/Deagle/",
-  },
-  {
-    id: 4,
-    title: "CTF Challenges & Writeups",
-    desc: "A collection of reverse engineering challenges and solutions.",
-    url: "https://github.com/jihedkdiss/Writeups/",
-  },
+ 
 ];
 
 export default Projects;

@@ -17,13 +17,9 @@ const Education: React.FC = () => {
 
 const eduBg = [
   {
-    title: "Software Engineering Degree",
-    desc: "National Institute of Applied Science and Technology | 2023 - 2028",
-  },
-  {
-    title: "High School Diploma",
-    desc: "Pioneer High School of Medenine | 2023",
-  },
+    title: "Communication and Network Engineering",
+    desc: "ENIG | 2024 - 2027",
+  }
 ];
 
 export default Education;

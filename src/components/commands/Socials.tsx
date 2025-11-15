@@ -62,25 +62,19 @@ const socials = [
   {
     id: 1,
     title: "GitHub",
-    url: "https://github.com/jihedkdiss",
+    url: "https://github.com/abdannassermbarki",
     tab: 3,
   },
   {
     id: 2,
-    title: "Facebook",
-    url: "https://www.facebook.com/jiokdiss",
+    title: "Linkedin",
+    url: "https://www.linkedin.com/in/abdannasser-mbarki-499b241ba/",
     tab: 1,
   },
   {
     id: 3,
-    title: "Linkedin",
-    url: "https://linkedin.com/in/jihedkdiss",
-    tab: 1,
-  },
-  {
-    id: 4,
     title: "Blog",
-    url: "https://dev.to/jihedkdiss",
+    url: "https://dev.to/abdannassermbarki",
     tab: 5,
   },
 ];

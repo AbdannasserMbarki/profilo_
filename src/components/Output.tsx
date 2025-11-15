@@ -75,7 +75,7 @@ const Output: React.FC<Props> = ({ index, cmd }) => {
           help: <Help />,
           history: <History />,
           projects: <Projects />,
-          pwd: <GeneralOutput>/home/jihedkdiss</GeneralOutput>,
+          pwd: <GeneralOutput>/home/abdannassermbarki</GeneralOutput>,
           socials: <Socials />,
           welcome: <Welcome />,
           whoami: <GeneralOutput>kali</GeneralOutput>,

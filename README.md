@@ -6,15 +6,15 @@
 
 <p align="center">
     <img src="https://api.netlify.com/api/v1/badges/9818157c-d810-4ad6-b218-038707143a3c/deploy-status?style=flat-square" alt="Netlify Status" />
-    <img src="https://img.shields.io/github/license/jihedkdiss/Kali-Linux-Hacker-Portfolio?style=flat-square" alt="License" />
-    <img src="https://img.shields.io/github/repo-size/jihedkdiss/Kali-Linux-Hacker-Portfolio?style=flat-square" alt="Repo size" />
-    <img src="https://img.shields.io/github/languages/top/jihedkdiss/Kali-Linux-Hacker-Portfolio?style=flat-square" alt="Top language" />
-    <img src="https://img.shields.io/github/stars/jihedkdiss/Kali-Linux-Hacker-Portfolio?style=flat-square&color=ffcc00" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/jihedkdiss/Kali-Linux-Hacker-Portfolio?style=flat-square" alt="Forks" />
+    <img src="https://img.shields.io/github/license/abdannassermbarki/Kali-Linux-Hacker-Portfolio?style=flat-square" alt="License" />
+    <img src="https://img.shields.io/github/repo-size/abdannassermbarki/Kali-Linux-Hacker-Portfolio?style=flat-square" alt="Repo size" />
+    <img src="https://img.shields.io/github/languages/top/abdannassermbarki/Kali-Linux-Hacker-Portfolio?style=flat-square" alt="Top language" />
+    <img src="https://img.shields.io/github/stars/abdannassermbarki/Kali-Linux-Hacker-Portfolio?style=flat-square&color=ffcc00" alt="Stars" />
+    <img src="https://img.shields.io/github/forks/abdannassermbarki/Kali-Linux-Hacker-Portfolio?style=flat-square" alt="Forks" />
 </p>
 <p align="center">
-    <a href="https://jihedkdiss.tn">
-        <img src="https://img.shields.io/badge/View%20Live%20Demo-jihedkdiss.tn-17BB98?style=for-the-badge" alt="Forks" />
+    <a href="https://abdannassermbarki.tn">
+        <img src="https://img.shields.io/badge/View%20Live%20Demo-abdannassermbarki.tn-17BB98?style=for-the-badge" alt="Forks" />
     </a>
 </p>
 <p align="center">
@@ -51,7 +51,7 @@
 Clone the project and install dependencies:
 
 ```bash
-git clone https://github.com/jihedkdiss/Kali-Linux-Hacker-Portfolio.git
+git clone https://github.com/abdannassermbarki/Kali-Linux-Hacker-Portfolio.git
 cd Kali-Linux-Hacker-Portfolio
 git remote remove origin
 pnpm install
@@ -70,7 +70,7 @@ Contributions are welcome. If you'd like to contribute:
 
 ## Author
 
-[![Website](https://img.shields.io/badge/Website-jihedkdiss.tn-17BB98?style=for-the-badge)](https://jihedkdiss.tn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jihedkdiss)
-[![X / Twitter](https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xjio_)
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjihedkdiss%2FKali-Linux-Hacker-Portfolio&label=Visitors&countColor=%23dce775" alt="Visitors" />
+[![Website](https://img.shields.io/badge/Website-abdannassermbarki.tn-17BB98?style=for-the-badge)](https://abdannassermbarki.tn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdannassermbarki)
+[![X / Twitter](https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abdannasser.mbarki/_)
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabdannassermbarki%2FKali-Linux-Hacker-Portfolio&label=Visitors&countColor=%23dce775" alt="Visitors" />

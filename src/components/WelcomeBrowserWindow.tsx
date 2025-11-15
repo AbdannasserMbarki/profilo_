@@ -199,7 +199,7 @@ const WelcomeBrowserWindow: React.FC<Props> = ({ onClose, onMinimize, isMaximize
       )}
 
       <Toolbar>
-        <LocationBar>https://jihedkdiss.tn</LocationBar>
+        <LocationBar>https://abdannassermbarki.tn</LocationBar>
       </Toolbar>
 
       <Content maximized={isMaximized}>
@@ -217,8 +217,8 @@ const WelcomeBrowserWindow: React.FC<Props> = ({ onClose, onMinimize, isMaximize
             alignItems: 'center'
           }}>
             <img
-              src="/jihedkdiss.jpg"
-              alt="Jihed Kdiss"
+              src="/abdannassermbarki.jpg"
+              alt="Abdannasser Mbarki"
               style={{
                 width: '120px',
                 height: '120px',
@@ -237,7 +237,7 @@ const WelcomeBrowserWindow: React.FC<Props> = ({ onClose, onMinimize, isMaximize
                 WebkitTextFillColor: 'transparent',
                 fontWeight: 800,
                 letterSpacing: '-0.02em'
-              }}>Jihed Kdiss</h1>
+              }}>Abdannasser Mbarki</h1>
               <p style={{
                 margin: '6px 0 0 0',
                 fontSize: '1.05rem',
@@ -245,7 +245,7 @@ const WelcomeBrowserWindow: React.FC<Props> = ({ onClose, onMinimize, isMaximize
                 opacity: 0.95
               }}>Security Researcher • Software Engineer</p>
               <div role="group" aria-label="Quick links" style={{ display: 'flex', flexWrap: 'wrap', gap: '10px', marginTop: '12px' }}>
-                <a href="https://github.com/jihedkdiss" target="_blank" rel="noreferrer" style={{
+                <a href="https://github.com/abdannassermbarki" target="_blank" rel="noreferrer" style={{
                   textDecoration: 'none',
                   color: '#88C0D0',
                   background: 'rgba(136, 192, 208, 0.15)',
@@ -254,16 +254,13 @@ const WelcomeBrowserWindow: React.FC<Props> = ({ onClose, onMinimize, isMaximize
                   border: '1px solid rgba(136,192,208,0.35)',
                   fontSize: '0.92rem'
                 }}>GitHub</a>
-                <a href="https://www.linkedin.com/in/jihedkdiss" target="_blank" rel="noreferrer" style={{
+                <a href="https://www.linkedin.com/in/abdannasser-mbarki-499b241ba/" target="_blank" rel="noreferrer" style={{
                   textDecoration: 'none', color: '#A3BE8C', background: 'rgba(163, 190, 140, 0.15)', padding: '8px 12px', borderRadius: '999px', border: '1px solid rgba(163,190,140,0.35)', fontSize: '0.92rem'
                 }}>LinkedIn</a>
-                <a href="https://facebook.com/0xjio" target="_blank" rel="noreferrer" style={{
-                  textDecoration: 'none', color: '#81A1C1', background: 'rgba(129, 161, 193, 0.15)', padding: '8px 12px', borderRadius: '999px', border: '1px solid rgba(129,161,193,0.35)', fontSize: '0.92rem'
-                }}>Facebook</a>
-                <a href="https://blog.jihedkdiss.tn/" target="_blank" rel="noreferrer" style={{
+                <a href="https://dev.to/abdannassermbarki" target="_blank" rel="noreferrer" style={{
                   textDecoration: 'none', color: '#B48EAD', background: 'rgba(180, 142, 173, 0.15)', padding: '8px 12px', borderRadius: '999px', border: '1px solid rgba(180,142,173,0.35)', fontSize: '0.92rem'
                 }}>Blog</a>
-                <a href="/Jihed_Kdiss_Resume.pdf" target="_blank" rel="noreferrer" style={{
+                <a href="/Abdannasser_Mbarki_Resume.pdf" target="_blank" rel="noreferrer" style={{
                   textDecoration: 'none', color: '#EBCB8B', background: 'rgba(235, 203, 139, 0.15)', padding: '8px 12px', borderRadius: '999px', border: '1px solid rgba(235,203,139,0.35)', fontSize: '0.92rem'
                 }}>Resume</a>
               </div>
@@ -286,16 +283,16 @@ const WelcomeBrowserWindow: React.FC<Props> = ({ onClose, onMinimize, isMaximize
                 transition: 'transform 0.2s ease, box-shadow 0.2s ease',
                 cursor: 'pointer'
               }}
-              onClick={() => window.open('https://dev.to/jihedkdiss', '_blank')}
+              onClick={() => window.open('https://dev.to/abdannassermbarki', '_blank')}
               onMouseEnter={(e) => { e.currentTarget.style.transform = 'translateY(-3px)'; e.currentTarget.style.boxShadow = '0 14px 30px rgba(136, 192, 208, 0.18)'; }}
               onMouseLeave={(e) => { e.currentTarget.style.transform = 'translateY(0)'; e.currentTarget.style.boxShadow = 'none'; }}
             >
               <div style={{ display: 'flex', alignItems: 'center', marginBottom: '10px', gap: '10px' }}>
                 <span style={{ fontSize: '1.5rem' }}>🛡️</span>
-                <h3 style={{ margin: 0, color: '#88C0D0', fontSize: '1.05rem' }}>Security Research</h3>
+                <h3 style={{ margin: 0, color: '#88C0D0', fontSize: '1.05rem' }}>Security field</h3>
               </div>
               <p style={{ margin: 0, lineHeight: 1.6 as any, color: '#D8DEE9' }}>
-                4+ years reverse engineering & malware analysis. CTF author/instructor at <strong style={{ color: '#A3BE8C' }}>Securinets</strong>.
+                reverse engineering CTFs. Founder of the security club <strong style={{ color: '#A3BE8C' }}>Securinets ENIG</strong>.
               </p>
             </div>
 
@@ -308,7 +305,7 @@ const WelcomeBrowserWindow: React.FC<Props> = ({ onClose, onMinimize, isMaximize
                 transition: 'transform 0.2s ease, box-shadow 0.2s ease',
                 cursor: 'pointer'
               }}
-              onClick={() => window.open('https://www.linkedin.com/in/jihedkdiss', '_blank')}
+              onClick={() => window.open('https://www.linkedin.com/in/abdannasser-mbarki-499b241ba/', '_blank')}
               onMouseEnter={(e) => { e.currentTarget.style.transform = 'translateY(-3px)'; e.currentTarget.style.boxShadow = '0 14px 30px rgba(163, 190, 140, 0.18)'; }}
               onMouseLeave={(e) => { e.currentTarget.style.transform = 'translateY(0)'; e.currentTarget.style.boxShadow = 'none'; }}
             >
@@ -317,8 +314,7 @@ const WelcomeBrowserWindow: React.FC<Props> = ({ onClose, onMinimize, isMaximize
                 <h3 style={{ margin: 0, color: '#A3BE8C', fontSize: '1.05rem' }}>Professional Experience</h3>
               </div>
               <p style={{ margin: 0, lineHeight: 1.6 as any, color: '#D8DEE9' }}>
-                Ex-cybersecurity instructor at <strong style={{ color: '#EBCB8B' }}>Internews</strong>. SysAdmin at <strong style={{ color: '#EBCB8B' }}>Radio Mednine</strong>. Teaching at <strong style={{ color: '#EBCB8B' }}>Blade Club</strong>.
-              </p>
+                Software developpment, reverse engineering, game developpment, agentic systems and hosting CTFs in the cloud. <strong style={{ color: '#EBCB8B' }}>Currently focusing on software developpment</strong>. </p>
             </div>
 
             <div
@@ -330,7 +326,7 @@ const WelcomeBrowserWindow: React.FC<Props> = ({ onClose, onMinimize, isMaximize
                 transition: 'transform 0.2s ease, box-shadow 0.2s ease',
                 cursor: 'pointer'
               }}
-              onClick={() => window.open('https://insat.rnu.tn', '_blank')}
+              onClick={() => window.open('https://enig.rnu.tn/', '_blank')}
               onMouseEnter={(e) => { e.currentTarget.style.transform = 'translateY(-3px)'; e.currentTarget.style.boxShadow = '0 14px 30px rgba(235, 203, 139, 0.18)'; }}
               onMouseLeave={(e) => { e.currentTarget.style.transform = 'translateY(0)'; e.currentTarget.style.boxShadow = 'none'; }}
             >
@@ -339,7 +335,7 @@ const WelcomeBrowserWindow: React.FC<Props> = ({ onClose, onMinimize, isMaximize
                 <h3 style={{ margin: 0, color: '#EBCB8B', fontSize: '1.05rem' }}>Education</h3>
               </div>
               <p style={{ margin: 0, lineHeight: 1.6 as any, color: '#D8DEE9' }}>
-                Software Engineering at <strong style={{ color: '#D08770' }}>INSAT</strong>: architecture, algorithms, low-level programming.
+                Communication and Network Engineering at <strong style={{ color: '#D08770' }}>ENIG</strong>: architecture, optimisations, AI, low-level programming, networking, security .
               </p>
             </div>
           </div>
