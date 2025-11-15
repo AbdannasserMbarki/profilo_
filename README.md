@@ -1,7 +1,7 @@
-<h1 align="center">Kali Linux Hacker Portfolio 🐦‍🔥</h1>
+<h1 align="center">My profilo</h1>
 
 <p align="center">
-    <img src="public/og.png" alt="Kali Linux Terminal Portfolio screenshot" width="600" />
+    <img src="public/o.png" alt="Kali Linux Terminal Portfolio screenshot" width="600" />
 </p>
 
 <p align="center">
